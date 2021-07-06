@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function contact() {
 
-    const linkStyle = { style: "width: 18rem;" }
+    const linkStyle = { style: "width: 18rem" }
 
     return (
 
-        <div id="contact_info" class="col-md-10 col-sm-12">
+        <div id="contact_info" className="col-md-10 col-sm-12">
             <div className="card text-white bg-secondary mb-3" style={linkStyle}>
                 <div className="card-header">Phone</div>
                 <div className="card-body">
@@ -24,7 +24,7 @@ export default function contact() {
             <div className="card text-white bg-secondary mb-3" style={linkStyle}>
                 <div className="card-header">LinkedIn Profile</div>
                 <div className="card-body">
-                    <a href="https://www.linkedin.com/in/kristopher-lucas-1467355/" class="btn btn-dark">LinkedIn
+                    <a href="https://www.linkedin.com/in/kristopher-lucas-1467355/" className="btn btn-dark">LinkedIn
                         profile</a>
                 </div>
             </div>
@@ -32,14 +32,14 @@ export default function contact() {
             <div className="card text-white bg-secondary mb-3" style={linkStyle}>
                 <div className="card-header">Resume</div>
                 <div className="card-body">
-                    <a href="./assets/RESUME.pdf" class="btn btn-dark">Resume
+                    <a href="./assets/RESUME.pdf" className="btn btn-dark">Resume
                         Link</a>
                 </div>
             </div>
             <div className="card text-white bg-secondary mb-3" style={linkStyle}>
                 <div className="card-header">GitHub Profile</div>
                 <div className="card-body">
-                    <a href="https://github.com/klucas72" class="btn btn-dark">GitHub Profile Link</a>
+                    <a href="https://github.com/klucas72" className="btn btn-dark">GitHub Profile Link</a>
                 </div>
             </div>
         </div>
