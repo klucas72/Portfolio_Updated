@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background: cadetblue;
+}
+/* Navbar CSS settings */
+.navbar {
+    background-color: rgb(14, 56, 58);
+    width: 100%;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.dropdown-menu {
+    color: white;
+}
+
+/* Main Header Settings */
+h1 {
+    text-align: center;
+    color: rgb(14, 56, 58);
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+/* About me section settings */
+#about_me {
+    border-right: 8px solid rgb(14, 56, 58);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    display: grid;
+    place-items: center;
+}
+
+/* Biography Settings */
+#middle {
+    font-size: 20px;
+}
+
+/* Spacing between Sections */
+#blank_space {
+    height: 50px;
+}
+
+/* Work Product Section Settings */
+#work {
+    border-right: 8px solid rgb(14, 56, 58);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    display: grid;
+    place-items: center;
+}
+
+#work2 {
+    border-right: 8px solid rgb(14, 56, 58);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    display: grid;
+    place-items: center;
+}
+
+/* Work product Examples */
+#work_example {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#work_example2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* spacing between Sections */
+#blank_space2 {
+    height: 100px;
+}
+
+/* Contact Me Section Settings */
+#contact_me {
+    border-right: 8px solid rgb(14, 56, 58);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    display: grid;
+    place-items: center;
+}
+
+/* Contact Info Settings */
+#contact_info {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

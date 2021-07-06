@@ -1,12 +1,12 @@
 import React from 'react';
 
-export default function about() {
+export default function About() {
 
     return (
-        <div nameClass="row">
+        <div className="row">
 
             <div id="about_me" class="col-md-2 col-sm-12">
-                About Me
+                className Me
             </div>
             <div id="middle" class="col-md-10 col-sm-12">
                 <p>Born and raised in rural Illinois, I graduated high
@@ -22,7 +22,7 @@ export default function about() {
                     sent to the Naval Training Center in Newport Rhode Island.
                     From there, I was stationed in San Diego, California for
                     one four year tour. I left the Navy after one tour and
-                    lived in San Diego for about 10 years before I moved to
+                    lived in San Diego for className 10 years before I moved to
                     Atlanta. While in Atlanta, I went back to school and
                     received another Bachelor's of Science in Network
                     Communications and Engineering. With my combined
