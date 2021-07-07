@@ -2,17 +2,19 @@
     box-sizing: border-box;
 }
 
-body {
+main {
     background: cadetblue;
 }
 /* Navbar CSS settings */
 .navbar {
     background-color: rgb(14, 56, 58);
     width: 100%;
+    font-size: 30px;
 }
 
 .navbar-brand {
     color: white;
+    font-size: 30px;
 }
 
 .nav-link {
