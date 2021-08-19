@@ -78,6 +78,9 @@ h1 {
     justify-content: space-around;
 }
 
+#btn_link {
+    margin-left: 50px;
+}
 
  #work_example2 {
     display:flex;

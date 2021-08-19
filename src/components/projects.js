@@ -22,6 +22,7 @@ export default function projects() {
                             <h5 className="card-title">Day Planner App</h5>
                             <p className="card-text">Application created to log and save day's events to a web calendar</p>
                             <a href="https://klucas72.github.io/day_planner/" className="btn btn-dark">app link</a>
+                            <a id="btn_link" href="https://github.com/klucas72/day_planner.git" className="btn btn-dark">repo link</a>
                         </div>
                     </div>
 
@@ -32,6 +33,7 @@ export default function projects() {
                             <p className="card-text">Application created to show 5 day weather forecast as well a current conditions
                             </p>
                             <a href="https://klucas72.github.io/5-Day-forecast-application/" className="btn btn-dark">app link</a>
+                            <a id="btn_link" href="https://github.com/klucas72/5-Day-forecast-application.git" className="btn btn-dark">repo link</a>
                         </div>
                     </div>
 
@@ -43,6 +45,7 @@ export default function projects() {
                             <p className="card-text">Application created to find recipes and cocktails based on cuisine and meal time
                             </p>
                             <a href="https://sranson.github.io/recipe-finder/" className="btn btn-dark">app link</a>
+                            <a id="btn_link" href="https://github.com/sranson/recipe-finder.git" className="btn btn-dark">repo link</a>
                         </div>
                     </div>
                 </div>
