@@ -21,7 +21,7 @@ export default function projects() {
                         <div className="card-body">
                             <h5 className="card-title">Day Planner App</h5>
                             <p className="card-text">Application created to log and save day's events to a web calendar</p>
-                            <a href="https://klucas72.github.io/homework-week-6/" className="btn btn-dark">app link</a>
+                            <a href="https://klucas72.github.io/day_planner/" className="btn btn-dark">app link</a>
                         </div>
                     </div>
 
