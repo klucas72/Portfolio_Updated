@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../media/RESUME_Updated.pdf';
+import resume from '../media/Web_Development_Resume.pdf';
 
 export default function contact() {
 
